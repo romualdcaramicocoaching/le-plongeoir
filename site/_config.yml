@@ -3,5 +3,5 @@ description: Matériel, entraînement et conseils pour mieux nager
 theme: minima
 plugins:
   - jekyll-feed
-url: https://<tonpseudo>.github.io
+url: https://romualdcaramicocoaching.github.io
 baseurl: /le-plongeoir
