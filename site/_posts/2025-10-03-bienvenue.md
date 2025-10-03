@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Bienvenue sur Le Plongeoir"
+title: "Bienvenue — Le Plongeoir"
 date: 2025-10-03
-categories: [meta]
+categories: [materiel, entrainement]
 ---
-
-Bienvenue sur **Le Plongeoir** : ici, les articles apparaissent automatiquement grâce à l’IA.
+Bienvenue ! Ici, on parle matériel, séances et progrès — sans blabla.
