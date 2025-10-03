@@ -1,0 +1,22 @@
+{
+  "bonnet": {
+    "name": "Bonnet natation anti-chlore",
+    "url": "https://exemple.com/bonnet"
+  },
+  "lunettes": {
+    "name": "Lunettes anti-buée",
+    "url": "https://exemple.com/lunettes"
+  },
+  "palmes": {
+    "name": "Palmes natation adultes",
+    "url": "https://exemple.com/palmes"
+  },
+  "pullbuoy": {
+    "name": "Pull-buoy entraînement",
+    "url": "https://exemple.com/pullbuoy"
+  },
+  "enfants": {
+    "name": "Brassards enfants",
+    "url": "https://exemple.com/brassards"
+  }
+}

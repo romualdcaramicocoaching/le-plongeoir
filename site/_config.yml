@@ -1,0 +1,6 @@
+title: Le Plongeoir
+description: Blog automatisé sur la natation - matériel, entraînement, enfants
+theme: minima
+paginate: 10
+plugins:
+  - jekyll-feed
