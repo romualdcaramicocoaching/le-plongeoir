@@ -1,1 +1,10 @@
-.cta-box{border:1px solid #ddd;padding:1rem;margin:1.25rem 0;border-radius:8px;} .cta-box h3{margin-top:0;}
+:root { --bg:#0b0f14; --card:#121721; --text:#e8eef6; --muted:#9bb0c9; --brand:#2aa9ff; }
+body { background: var(--bg); color: var(--text); }
+a { color: var(--brand); }
+.hero{ background:linear-gradient(180deg, #0b0f14 0%, #121721 100%); padding:3rem 1rem; border-radius:16px; margin:1rem 0 2rem; text-align:center; }
+.hero h1{ font-size:2.2rem; margin:0 0 .5rem; }
+.hero p{ color:var(--muted); margin:0 0 1rem; }
+.cta{ display:flex; gap:.75rem; justify-content:center; flex-wrap:wrap; }
+.btn{ background:var(--brand); color:#001018; padding:.6rem .9rem; border-radius:999px; text-decoration:none; font-weight:700; }
+.post-list h3 a{ text-decoration:none; }
+.cta-box{border:1px solid #233143;padding:1rem;margin:1.25rem 0;border-radius:12px;background:#0e141d;}
