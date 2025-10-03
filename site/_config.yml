@@ -1,17 +1,7 @@
 title: Le Plongeoir
 description: Matériel, entraînement et conseils pour mieux nager
 theme: minima
-minima:
-  skin: dark
-paginate: 10
 plugins:
   - jekyll-feed
-# IMPORTANT pour les URLs (remplace <tonpseudo>)
 url: https://<tonpseudo>.github.io
 baseurl: /le-plongeoir
-header_pages:
-  - guides.md
-  - accessoires.md
-  - entrainement.md
-  - enfants.md
-  - a-propos.md
